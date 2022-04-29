@@ -11,3 +11,24 @@
 ul {
   list-style: none;
 }
+
+h1 {
+  text-decoration: underline;
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}
+
+p{
+  text-align: center;
+}
+
+img{
+  max-width: 200px;
+  max-height: 200px;
+  margin-bottom: 20px;
+  align-items: center;
+  padding-left: 20px;
+}
